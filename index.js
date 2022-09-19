@@ -5,7 +5,7 @@ const elements = {};
 
 // FUNKTIONEN
 const domMapping = () => {
-
+    elements.main = document.querySelector ( 'main')
 }
 
 const appendEventlisteners = () => {
